@@ -1,0 +1,13 @@
+{
+    "name": "gproject",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "obed",
+    "contributors": [],
+    "dependencies": {
+        "express": "3.0.0alpha4",
+        "jade": "^1.0.4",
+        "stylus": "^0.49.1",
+        "nib": "^1.0.4"
+    }
+}

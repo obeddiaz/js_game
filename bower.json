@@ -1,0 +1,25 @@
+{
+  "name": "gameapp",
+  "description": "This is a Game Created By Obed Diaz Rdz",
+  "main": "",
+  "license": "MIT",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "socket.io-client": "^1.4.6"
+  }
+}
